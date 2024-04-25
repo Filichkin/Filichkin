@@ -23,6 +23,9 @@
       <td>
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/LogoMospolytech.jpg" title="Moscow polytech" width="70"/>&nbsp;
       </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Width_1600.png" title="Pandas" width="70"/>&nbsp;
+      </td>
       
   </tr>
   <tr>
