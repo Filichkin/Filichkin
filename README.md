@@ -26,7 +26,7 @@
   <tr>
       <td> Tools </td>
       <td>
-           <img src="https://dash.plotly.com/assets/images/plotly_logo_dark.png" title="Plotly" width="70"/>&nbsp;
+           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" title="Plotly" width="70"/>&nbsp;
       </td>
       <td>
            <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="70"/>&nbsp;
