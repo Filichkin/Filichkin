@@ -18,6 +18,13 @@
 <table>
 
 <td>
+   <tr>
+      <td> Education </td>
+      <td>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="70"/>&nbsp;
+      </td>
+      
+  </tr>
   <tr>
       <td> Languages </td>
       <td>
