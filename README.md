@@ -41,7 +41,7 @@
            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" title="Plotly" width="70"/>&nbsp;
+           <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress%2Cformat&fit=max&w=256" width="70"/>&nbsp;
       </td>      
   </tr>
   <tr>
