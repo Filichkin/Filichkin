@@ -4,6 +4,8 @@
 <h1>About me</h1>
 
 - Working in warranty team of Kia RUS & CIS
+- Warranty claims and data analysis
+- Warranty cost management
 </td>
 <td>
    <h2> My socials </h2>
