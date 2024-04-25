@@ -21,7 +21,7 @@
    <tr>
       <td> Education </td>
       <td>
-          <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg](https://mospolytech.ru/local/templates/main/dist/img/logos/mospolytech-logo-white.svg)" title="Moscow polytech" width="70"/>&nbsp;
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/LogoMospolytech.jpg" title="Moscow polytech" width="70"/>&nbsp;
       </td>
       
   </tr>
