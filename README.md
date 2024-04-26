@@ -26,7 +26,7 @@
           <img src="https://media.licdn.com/dms/image/D4E0BAQHB4beN1oZORg/company-logo_200_200/0/1666444213480?e=1722470400&v=beta&t=SEQMwcg42NQcs4byRoRfr4RMfsJdEjkoz9d-NrPQQAA" title="Moscow polytech" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Width_1600.png" title="Yandex practicum" width="70"/>&nbsp;
+           <img src="https://media.licdn.com/dms/image/C4E0BAQFvMau8fT9EaA/company-logo_100_100/0/1659612017327/__logo?e=1722470400&v=beta&t=geZfYtjn_AQrj5wvezd-gsAIZZwkmBHafdgzV6gF--M" title="Yandex practicum" width="70"/>&nbsp;
       </td>
       
   </tr>
