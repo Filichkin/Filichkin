@@ -12,7 +12,7 @@
    
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexeyfill)
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/filichkin_alexey)
-   [![Facebook](https://avatars.mds.yandex.net/i?id=8e4a7dc5ae8a392406535f72ae38ce5b_sr-12361708-images-thumbs&n=13)](https://www.facebook.com/filichkin.alexey)
+   [![Facebook](https://static.wixstatic.com/media/98d974_074caa684ecd4eb1906a96b7c32b685e~mv2.jpg/v1/fill/w_300,h_200,al_c,q_80,enc_auto/98d974_074caa684ecd4eb1906a96b7c32b685e~mv2.jpg)](https://www.facebook.com/filichkin.alexey)
 </td>
 </tr>
 </table>
