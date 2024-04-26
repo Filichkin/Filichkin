@@ -12,6 +12,7 @@
    
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexeyfill)
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/filichkin_alexey)
+   [![Facebook](https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg)](https://www.facebook.com/filichkin.alexey)
 </td>
 </tr>
 </table>
