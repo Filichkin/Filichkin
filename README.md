@@ -3,11 +3,14 @@
 <td width="550">
 <h1>About me</h1>
 
-- Working in warranty team of Kia RUS & CIS
-- Analysis of Russian and CIS Service & Warranty market
-- Warranty cost management
-- Development and implementation of warranty budget
-- SKD and CKD claims management
+- Managed monthly large datasets with 15K observations using regular expressions and selecting key variables to warranty analysis
+- Created dashboards using Dash and Plotly to display 20+ KPIs related to distinctive areas of interest within departmental operations
+- Used Python to automate routine data analysis processing tasks that saved an estimated 20 hours of manual work per week
+- Developed 10+ metrics and KPI for Dealer evaluation system
+- Budget forecasting (with testing machine learning models) and warranty cost control for 190 Dealers and 5 CIS Distributors
+- Prepared 3+ monthly cost reports and presentation for company management
+- Managed Global Warranty System, 50+ new logics developed and tested
+
 </td>
 <td>
    <h2> My socials </h2>
