@@ -63,7 +63,7 @@
            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="70"/>&nbsp;
       </td> 
      <td>
-           <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" width="70"/>&nbsp
+           <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fpostgres" width="70"/>&nbsp
       </td>      
   </tr>
   <tr>
