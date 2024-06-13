@@ -60,10 +60,10 @@
            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="70"/>&nbsp;
+           <img src="https://plotly.com/all_static/images/graphing_library.svg" width="70"/>&nbsp;
       </td> 
      <td>
-           <img src="https://hub.docker.com/api/media/repos_logo/v1/library%2Fpostgres" width="70"/>&nbsp
+           <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
       </td>      
   </tr>
   <tr>
