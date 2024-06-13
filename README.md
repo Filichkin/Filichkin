@@ -60,7 +60,7 @@
            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://plotly.com/all_static/images/graphing_library.svg" width="70"/>&nbsp;
+           <img src="https://dash.plotly.com/assets/images/plotly_logo_dark.png" width="70"/>&nbsp;
       </td> 
      <td>
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
