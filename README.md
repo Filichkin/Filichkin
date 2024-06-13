@@ -38,7 +38,7 @@
   <tr>
       <td> Languages </td>
       <td>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="70"/>&nbsp;
+          <img src="https://www.python.org/static/img/python-logo@2x.png" title="Python" width="70"/>&nbsp;
       </td>
       
   </tr>
@@ -60,7 +60,7 @@
            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://dash.plotly.com/assets/images/plotly_logo_dark.png" width="70"/>&nbsp;
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
       </td> 
      <td>
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
