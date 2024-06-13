@@ -54,7 +54,7 @@
            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" width="70"/>&nbsp;
       </td>
       <td> 
-           <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" width="70"/>&nbsp;
+           <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" width="70"/>&nbsp;
       </td>
      <td> 
            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" width="70"/>&nbsp;
