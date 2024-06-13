@@ -48,7 +48,7 @@
            <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="70"/>&nbsp;
+           <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
       </td>
       <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" width="70"/>&nbsp;
