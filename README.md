@@ -38,7 +38,7 @@
   <tr>
       <td> Languages </td>
       <td>
-          <img src="https://www.python.org/static/img/python-logo@2x.png" title="Python" width="70"/>&nbsp;
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" width="70"/>&nbsp;
       </td>
       
   </tr>
@@ -72,14 +72,14 @@
            <img src="https://upload.wikimedia.org/wikipedia/de/b/b1/MacOS-Logo.svg" title="macOS" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" width="70"/>&nbsp;
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" title="Windows" width="70"/>&nbsp;
       </td>
     
   </tr>
   <tr>
      <td> IDEs/Editors </td>
       <td>
-           <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" width="70"/>&nbsp;
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" title="Jupyter" width="70"/>&nbsp;
       </td>
       
   </tr>
