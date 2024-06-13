@@ -51,13 +51,13 @@
            <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" width="70"/>&nbsp;
+           <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="70"/>&nbsp;
       </td>
       <td> 
            <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" width="70"/>&nbsp;
       </td>
      <td> 
-           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" width="70"/>&nbsp;
+           <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
       </td>
       <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="70"/>&nbsp;
