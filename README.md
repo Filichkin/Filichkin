@@ -10,6 +10,7 @@
 - Budget forecasting (with testing machine learning models) and warranty cost control for 190 Dealers and 5 CIS Distributors
 - Prepared 3+ monthly cost reports and presentation for company management
 - Managed Global Warranty System, 50+ new logics developed and tested
+- Implemented time series forecasting models (ARMA, ARIMA, SARIMA) to predict warranty claims quantity
 
 </td>
 <td>
