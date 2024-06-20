@@ -68,7 +68,7 @@
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
       </td>
      <td>
-           <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="70"/>&nbsp
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png" width="70"/>&nbsp
       </td>     
   </tr>
   <tr>
