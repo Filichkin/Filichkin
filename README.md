@@ -66,7 +66,10 @@
       </td> 
      <td>
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
-      </td>      
+      </td>
+     <td>
+           <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="70"/>&nbsp
+      </td>     
   </tr>
   <tr>
       <td> OS </td>
