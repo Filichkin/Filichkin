@@ -50,15 +50,15 @@
       <td>
            <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" width="70"/>&nbsp;
       </td>
-      <td>
-           <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
-      </td>
       <td> 
            <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" width="70"/>&nbsp;
       </td>
      <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
       </td> 
+     <td>
+           <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
+      </td>
      <td>
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
       </td>
