@@ -76,7 +76,7 @@
   <tr>
       <td> Tools </td>
       <td>
-           <img src="https://pytorch.org/"/>&nbsp;
+           <img src="https://www.clipartmax.com/png/middle/476-4769276_pytorch-logo-png.png"/>&nbsp;
       </td>
     
   </tr>
