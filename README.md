@@ -76,7 +76,7 @@
   <tr>
       <td> Tools </td>
       <td>
-           <img src="https://www.linuxfoundation.org/hs-fs/hubfs/PyTorchLogo_Icon_fullColor_RGB.png?width=259&height=288&name=PyTorchLogo_Icon_fullColor_RGB.png"/>&nbsp;
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCdWxqZuixRrHuNPm5tVC89IL1v_8tEYXycA&s"/>&nbsp;
       </td>
     
   </tr>
