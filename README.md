@@ -53,19 +53,15 @@
       <td>
            <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
       </td>
-      
       <td> 
            <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" width="70"/>&nbsp;
       </td>
-     
-      <td>
+     <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
       </td> 
-     
      <td>
            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
       </td>
-      
   </tr>
   
   <tr>
@@ -73,15 +69,12 @@
       <td>
            <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="70" />&nbsp;
       </td>
-
-      <td> 
+     <td> 
            <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
       </td>
-
       <td>
            <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="70"/>&nbsp;
       </td>
-
       <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png" width="70"/>&nbsp
       </td>    
