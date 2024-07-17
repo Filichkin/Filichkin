@@ -72,6 +72,18 @@
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png" width="70"/>&nbsp
       </td>     
   </tr>
+  
+  <tr>
+      <td> Tools </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/440px-Pytorch_logo.png"/>&nbsp;
+      </td>
+    
+  </tr>
+
+
+
+  
   <tr>
       <td> OS </td>
       <td>
