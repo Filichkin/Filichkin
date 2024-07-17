@@ -76,7 +76,7 @@
   <tr>
       <td> Tools </td>
       <td>
-           <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"/>&nbsp;
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdl3OZ-k5LjOvyYC7uMjUxT2hnpqKEJBSteHhO2VY31sfuQZel1reiCtC5eRYS7fxIVso&usqp=CAU"/>&nbsp;
       </td>
     
   </tr>
