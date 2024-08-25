@@ -6,13 +6,14 @@
 - Managed monthly large datasets with 15K observations using regular expressions and selecting key variables to warranty analysis
 - Created dashboards using Dash and Plotly to display 20+ KPIs related to distinctive areas of interest within departmental operations
 - Used Python to automate routine data analysis processing tasks that saved an estimated 20 hours of manual work per week
-- Developed 10+ metrics and KPI for Dealer evaluation system
-- Budget forecasting (with testing machine learning models) and warranty cost control for 190 Dealers and 5 CIS Distributors
+- Budget forecasting with ML models and warranty cost control for 190 Dealers and 5 Kia CIS Distributors
 - Developed of ML models for predicting the presence of warranty repairs using the CatBoost, LightGBM and XGBoost algorithms
 - Successfully migrated 3 mil+ records of warranty repair data to a new, optimized structure and developed 40+ SQL queries and scripts to extract data needed for analysis
 - Prepared 3+ monthly cost reports and presentation for company management
-- Managed Global Warranty System, 50+ new logics developed and tested
 - Implemented time series forecasting models (ARMA, ARIMA, SARIMA) to predict warranty claims quantity
+- Development PyTorch models for determination warranty repairs status based on recognizing pictures of vehicle parts defects
+- Managed Kia Global Warranty System, 50+ new logics developed and tested
+- Developed 10+ metrics and KPI for Dealer evaluation system
 
 </td>
 <td>
