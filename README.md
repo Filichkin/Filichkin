@@ -100,6 +100,9 @@
       <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" title="Jupyter" width="70"/>&nbsp;
       </td>
+      <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/160px-Visual_Studio_Code_1.35_icon.svg.png" title="VS Code" width="70"/>&nbsp;
+      </td>
       
   </tr>
 </table>
