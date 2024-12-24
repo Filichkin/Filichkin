@@ -62,8 +62,7 @@
       </td> 
      <td>
            <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
-      </td>
-
+     </td>
   </tr>
   
   <tr>
