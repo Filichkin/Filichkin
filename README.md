@@ -44,6 +44,9 @@
       <td>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" width="70"/>&nbsp;
       </td>
+      <td>
+           <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
+      </td>
       
   </tr>
   <tr>
@@ -60,9 +63,7 @@
      <td>
            <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
       </td>
-     <td>
-           <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>&nbsp
-      </td>
+
   </tr>
   
   <tr>
