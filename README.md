@@ -63,6 +63,9 @@
      <td>
            <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
      </td>
+     <td>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png" width="70"/>&nbsp
+      </td>    
   </tr>
   
   <tr>
@@ -76,9 +79,6 @@
       <td>
            <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="70"/>&nbsp;
       </td>
-      <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png" width="70"/>&nbsp
-      </td>    
     
   </tr>
 
