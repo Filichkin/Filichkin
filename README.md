@@ -47,6 +47,12 @@
       <td>
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg" width="70"/>&nbsp
       </td>
+     <td>
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original-wordmark.svg" width="70"/>&nbsp
+      </td>
+      <td>
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original-wordmark.svg" width="70"/>&nbsp
+      </td>
       
   </tr>
   <tr>
@@ -91,9 +97,7 @@
       <td>
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytest/pytest-original-wordmark.svg" width="70"/>&nbsp;
       </td>
-      <td>
-           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original-wordmark.svg" width="70"/>&nbsp
-      </td>
+   
    </tr>
 
       
