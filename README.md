@@ -93,10 +93,13 @@
       </td>
      <td> 
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain-wordmark.svg" width="70"/>&nbsp;
-      </td>
-      <td>
+     </td>
+     <td> 
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original-wordmark.svg" width="70"/>&nbsp;
+     </td>
+     <td>
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytest/pytest-original-wordmark.svg" width="70"/>&nbsp;
-      </td>
+     </td>
    
    </tr>
 
