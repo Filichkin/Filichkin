@@ -68,16 +68,16 @@
   <tr>
       <td> Tools </td>
       <td>
-           <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="70" />&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original-wordmark.svg" width="70" />&nbsp;
       </td>
      <td> 
-           <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" width="70"/>&nbsp;
       </td>
       <td>
            <img src="https://docs.scipy.org/doc/scipy/_static/logo.svg" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png" width="70"/>&nbsp
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/apachespark/apachespark-original-wordmark.svg" width="70"/>&nbsp
       </td>
     
   </tr>
@@ -98,10 +98,10 @@
   <tr>
      <td> IDEs/Editors </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" title="Jupyter" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="70"/>&nbsp;
       </td>
       <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/160px-Visual_Studio_Code_1.35_icon.svg.png" title="VS Code" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" title="VS Code" width="70"/>&nbsp;
       </td>
       
   </tr>
