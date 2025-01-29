@@ -127,7 +127,7 @@
   <tr>
      <td> IDEs/Graphic editors </td>
       <td>
-           <img src="https://opencv.org/wp-content/uploads/2022/07/CVAT-Logo-and-Tagline-Only-scaled.jpg" title="Jupyter" width="70"/>&nbsp;
+           <img src="https://github.com/cvat-ai/cvat/blob/af218dddfef3cbdf40f62e694232ad4024377c28/cvat-ui/src/assets/cvat-logo.svg" title="CVAT" width="70"/>&nbsp;
       </td>
   </tr>
 </table>
