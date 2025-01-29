@@ -52,10 +52,10 @@
   <tr>
       <td> Tools </td>
       <td>
-           <img src="https://pandas.pydata.org/docs/_static/pandas.svg" title="Pandas" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pandas/pandas-original-wordmark.svg" width="70"/>&nbsp;
       </td>
       <td> 
-           <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original-wordmark.svg" title="Numpy" width="70"/>&nbsp;
       </td>
      <td>
            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
