@@ -58,10 +58,10 @@
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original-wordmark.svg" title="Numpy" width="70"/>&nbsp;
       </td>
      <td>
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/440px-Plotly-logo.png" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/plotly/plotly-original-wordmark.svg" width="70"/>&nbsp;
       </td> 
      <td>
-           <img src="https://matplotlib.org/stable/_static/logo_light.svg" title="Matplotlib" width="70"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg" width="70"/>&nbsp;
      </td>    
   </tr>
   
