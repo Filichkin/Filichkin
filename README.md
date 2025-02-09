@@ -111,7 +111,6 @@
      <td> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/redis/redis-original-wordmark.svg" width="70"/>&nbsp;
      </td>
-
      <td> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="70"/>&nbsp;
      </td>
