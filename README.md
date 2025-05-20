@@ -8,7 +8,7 @@
 - Development and training of classic ML models to solve business tasks;
 - Development and fine-tuning of models for various tasks (LLM, GAN, CNN);
 - Development of RecSys solutions;
-- Development of commercial applications (Django/DRF);
+- Development of commercial applications (FastAPI/Django/DRF);
 - Analysis of developed solutions and code review.
 
 </td>
