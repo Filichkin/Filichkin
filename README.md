@@ -5,12 +5,12 @@
 
 - EDA for sales and aftersales business;
 - Data visualization;
+- Development of commercial applications (FastAPI/Django/DRF);
 - Development and training of classic ML models to solve business tasks;
 - Development and fine-tuning of models for various tasks (LLM, GAN, CNN);
-- Development of RecSys solutions;
+- Development of RecSys and RAG solutions;
 - API development for integration with AI products;
 - Setting CI/CD proceses for development automation;
-- Development of commercial applications (FastAPI/Django/DRF);
 - Analysis of developed solutions and code review.
 
 </td>
