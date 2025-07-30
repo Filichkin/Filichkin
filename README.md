@@ -86,9 +86,6 @@
   </tr>
   <tr>
       <td> Tools </td>
-      <td>
-           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original-wordmark.svg" width="70" />&nbsp;
-      </td>
      <td> 
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain-wordmark.svg" width="70"/>&nbsp;
      </td>
@@ -101,6 +98,9 @@
      <td>
            <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytest/pytest-original-wordmark.svg" width="70"/>&nbsp;
      </td>
+     <td>
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" width="70" />&nbsp;
+      </td>
    
 </tr>
 
@@ -118,6 +118,9 @@
      <td> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="70"/>&nbsp;
      </td>
+     <td>
+           <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original-wordmark.svg" width="70" />&nbsp;
+      </td>
    
 </tr>
 
