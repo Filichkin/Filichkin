@@ -3,30 +3,18 @@
 <td width="550">
 <h1>About me</h1>
 
-Responsibilities:
- • Development and training of classical ML models to solve business tasks.
- • Fine-tuning models for specific tasks (LLM, GAN, CNN).
- • Development of backend solutions (FastAPI, DRF) for high-load systems, integration with Keycloak.
- • Creation of APIs for integration with external AI solutions.
- • Development of Telegram bots (Aiogram, PyTelegramBotAPI).
- • Containerization of services in Docker and setup of CI/CD processes for development automation.
- • Development and integration of recommender systems (RecSys) and RAG systems.
- • Creation of AI agents using MCP and LangChain tools.
- • Working with databases: PostgreSQL, Redis, Neo4j.
- • Generating embeddings for vector databases (Chroma, PGVector).
- • Preparation of documentation and reporting.
- • Analysis of developed solutions and conducting code review.
-
-Techstack:
- • Languages and tools: Python, SQLAlchemy, Jupyter Notebook, VS Code.
- • Databases: PostgreSQL, Redis, Neo4j, ChromaDB, PGVector.
- • Data Science and ML: PySpark, Pandas, NumPy, PyTorch, Scikit-learn, CatBoost, LightGBM, XGBoost, SciPy, Statsmodels, ARIMA.
- • Visualization: Seaborn, Matplotlib, Plotly, Dash.
- • Backend and API: FastAPI, Django/DRF.
- • Integrations and messengers: PyTelegramBotAPI, Aiogram.
- • AI and agents: LangChain, OpenAI, Google ADK, MCPToolset.
- • Queues and tasks: RabbitMQ, Celery.
- • DevOps and infrastructure: Docker, NGINX, CI/CD, Git.
+ - Development and training of classical ML models to solve business tasks.
+ - Fine-tuning models for specific tasks (LLM, GAN, CNN).
+ - Development of backend solutions (FastAPI, DRF) for high-load systems, integration with Keycloak.
+ - Creation of APIs for integration with external AI solutions.
+ - Development of Telegram bots (Aiogram, PyTelegramBotAPI).
+ - Containerization of services in Docker and setup of CI/CD processes for development automation.
+ - Development and integration of recommender systems (RecSys) and RAG systems.
+ - Creation of AI agents using MCP and LangChain tools.
+ - Working with databases: PostgreSQL, Redis, Neo4j.
+ - Generating embeddings for vector databases (Chroma, PGVector).
+ - Preparation of documentation and reporting.
+ - Analysis of developed solutions and conducting code review.
 
 </td>
 <td>
