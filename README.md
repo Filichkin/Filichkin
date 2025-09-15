@@ -3,18 +3,13 @@
 <td width="550">
 <h1>About me</h1>
 
- - Development and training of classical ML models to solve business tasks.
- - Fine-tuning models for specific tasks (LLM, GAN, CNN).
- - Development of backend solutions (FastAPI, DRF) for high-load systems, integration with Keycloak.
- - Creation of APIs for integration with external AI solutions.
- - Development of Telegram bots (Aiogram, PyTelegramBotAPI).
- - Containerization of services in Docker and setup of CI/CD processes for development automation.
- - Development and integration of recommender systems (RecSys) and RAG systems.
- - Creation of AI agents using MCP and LangChain tools.
- - Working with databases: PostgreSQL, Redis, Neo4j.
- - Generating embeddings for vector databases (Chroma, PGVector).
- - Preparation of documentation and reporting.
- - Analysis of developed solutions and conducting code review.
+I am a Machine Learning Engineer & Backend Developer with strong expertise in analytics and Aftersales solutions. 📊 My background combines data science, AI, and backend engineering — turning complex business data into actionable insights and scalable applications.
+
+I specialize in developing and fine-tuning ML models 🤖 (classical ML, LLMs, GANs, CNNs), building recommendation systems and RAG solutions, and creating AI agents with LangChain and MCP tools. Alongside AI, I design secure and high-load backends with FastAPI / DRF and build APIs for seamless integration with external AI platforms.
+
+My tech stack includes Python, PyTorch, Scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA; databases PostgreSQL, Redis, Neo4j, Chroma, PGVector, Milvus; and infrastructure tools like Docker, NGINX, CI/CD, RabbitMQ, Celery. On the frontend side, I have basic skills in JavaScript and React ⚡, which helps me collaborate effectively with full-stack teams.
+
+Passionate about bridging AI and business value, I focus on delivering solutions that boost Aftersales performance, customer retention, and operational efficiency. 🚀
 
 </td>
 <td>
