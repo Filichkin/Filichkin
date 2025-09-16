@@ -3,7 +3,7 @@
 <td width="550">
 <h1>About me</h1>
 
-I am a Machine Learning Engineer & Backend Developer with strong expertise in analytics and Aftersales solutions. 📊 My background combines data science, AI, and backend engineering — turning complex business data into actionable insights and scalable applications.
+I am a ML Engineer & Backend Developer with strong expertise in analytics and Aftersales solutions. 📊 My background combines data science, AI, and backend engineering — turning complex business data into actionable insights and scalable applications.
 
 I specialize in developing and fine-tuning ML models 🤖 (classical ML, LLMs, GANs, CNNs), building recommendation systems and RAG solutions, and creating AI agents with LangChain and MCP tools. Alongside AI, I design secure and high-load backends with FastAPI / DRF and build APIs for seamless integration with external AI platforms.
 
