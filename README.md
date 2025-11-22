@@ -71,8 +71,13 @@ Jupyter, VS Code, Cursor, Claude code, Codex, CVAT
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filichkin&show_icons=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Filichkin&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filichkin&layout=compact)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Filichkin&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Filichkin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Filichkin&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Filichkin&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Filichkin&theme=tokyo-night&hide_border=true)
