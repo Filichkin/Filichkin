@@ -70,3 +70,8 @@ macOS, Windows
 Jupyter, VS Code, Cursor, Claude code, Codex, CVAT
 
 ---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filichkin&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Filichkin&hide_border=true)
