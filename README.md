@@ -73,4 +73,4 @@ Jupyter, VS Code, Cursor, Claude code, Codex, CVAT
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Filichkin&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Filichkin&hide_border=true)
