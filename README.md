@@ -71,6 +71,3 @@ Jupyter, VS Code, Cursor, Claude code, Codex, CVAT
 
 ---
 
-## 📊 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Filichkin&hide_border=true)
