@@ -69,5 +69,3 @@ macOS, Windows
 **Tools & environments:**  
 Jupyter, VS Code, Cursor, Claude code, Codex, CVAT
 
----
-
