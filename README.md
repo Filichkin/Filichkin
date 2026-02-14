@@ -31,7 +31,7 @@ I combine data science, AI, and backend engineering to turn complex business dat
 ## 🧠 Core ML & Data Stack
 
 **Languages:**  
-Python, JavaScript
+Python, JavaScript, Go
 
 **ML / AI:**  
 PyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, LangChain, LangGraph, FastMCP
