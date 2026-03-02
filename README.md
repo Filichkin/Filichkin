@@ -44,7 +44,7 @@ Pandas, NumPy, SciPy, Plotly, Matplotlib, feature engineering, time series, mode
 ## 🛠 Backend & Infrastructure
 
 **Backend frameworks:**  
-FastAPI, Django REST Framework, Flask, Gin
+FastAPI, DRF, Flask, Gin
 
 **Databases:**  
 PostgreSQL, MySQL, Redis, Neo4j  
