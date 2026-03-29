@@ -1,14 +1,14 @@
 # About me
 
-I'm an **ML Engineer & Backend Developer** with strong experience in analytics and Aftersales solutions.  
-I combine data science, AI, and backend engineering to turn complex business data into **scalable applications** and **practical insights**.
+I'm an **ML/AI Engineer & Backend Developer** with hands-on experience in building production-grade AI systems, analytics platforms, and Aftersales solutions.  
+I combine data science, AI, and backend engineering to transform complex business data into **scalable applications**, **automated pipelines** and **measurable business outcomes**.
 
 **My key areas:**
-- 🤖 Development and fine-tuning of ML models (classical ML, LLMs, GANs, CNNs)  
-- 🧠 RAG solutions, recommendation systems, AI agents (LangChain, LangGraph, FastMCP)  
-- 🛠 High-load backend engineering with FastAPI / DRF  
-- 🔌 Building APIs and integrating AI platforms into products  
-- 📈 Delivering business value in Aftersales, retention, and operational efficiency  
+- 🤖 Development, validation, and fine-tuning of ML models (classical ML, LLMs, GANs, CNNs) for real-world use cases  
+- 🧠 Design and implementation of **RAG systems**, **AI agents**, and **MCP-based architectures** (LangChain, LangGraph, FastMCP)  
+- 🛠 High-load backend engineering (FastAPI / DRF) with focus on performance, reliability, and scalability  
+- 🔌 API design and integration of AI platforms into production environments  
+- 📈 Delivery of measurable business value: forecasting, optimization, and decision-support systems in Aftersales  
 
 ---
 
@@ -31,13 +31,15 @@ I combine data science, AI, and backend engineering to turn complex business dat
 ## 🧠 Core ML & Data Stack
 
 **Languages:**  
-Python, JavaScript, Go
+Python, JavaScript, Go, SQL, Cypher
 
 **ML / AI:**  
-PyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, LangChain, LangGraph, FastMCP
+PPyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, Statsmodels
+LangChain, LangGraph, FastMCP, OpenAI API, Claude API, Gemini
 
 **Data / Analytics:**  
-Pandas, NumPy, SciPy, Plotly, Matplotlib, feature engineering, time series, model evaluation.
+Pandas, NumPy, SciPy, Plotly, Matplotlib, Dash
+Feature engineering, time series analysis, hypothesis testing, model evaluation, KPI systems
 
 ---
 
@@ -48,13 +50,13 @@ FastAPI, DRF, Flask, Gin
 
 **Databases:**  
 PostgreSQL, MySQL, Redis, Neo4j  
-Vector DBs: Chroma, PGVector, Milvus, Qdrant
+Vector DBs: Chroma, PGVector, Milvus, Qdrant, FAISS
 
 **Messaging & async:**  
 RabbitMQ, Celery, Flower
 
 **DevOps / Tools:**  
-Docker, Nginx, Git, CI/CD pipelines
+Docker, Nginx, Git, CI/CD pipelines, GitHub Actions
 
 ---
 
