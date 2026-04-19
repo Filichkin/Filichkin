@@ -34,7 +34,7 @@ I combine data science, AI, and backend engineering to transform complex busines
 Python, JavaScript, Go, SQL, Cypher
 
 **ML / AI:**  
-PPyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, Statsmodels
+PyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, Statsmodels
 LangChain, LangGraph, FastMCP, OpenAI API, Claude API, Gemini
 
 **Data / Analytics:**  
