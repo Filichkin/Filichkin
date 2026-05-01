@@ -1,6 +1,6 @@
 # About me
 
-I'm an **ML/AI Engineer & Backend Developer** with hands-on experience in building production-grade AI systems, analytics platforms, and Aftersales solutions.  
+I'm an **ML/AI Engineer & Fullstack Developer** with hands-on experience in building production-grade AI systems, analytics platforms, and Aftersales solutions.  
 I combine data science, AI, and backend engineering to transform complex business data into **scalable applications**, **automated pipelines** and **measurable business outcomes**.
 
 **My key areas:**
