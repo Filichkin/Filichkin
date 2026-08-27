@@ -16,8 +16,8 @@ I combine data science, AI, and backend engineering to transform complex busines
 
 **Telegram:** https://t.me/alexeyfill  
 **Instagram:** https://www.instagram.com/kdm_development
-**Facebook:** https://www.facebook.com/filichkin.alexey  
-**LinkedIn:** https://www.linkedin.com/in/alexey-filichkin-085569aa/
+**Facebook:** https://www.facebook.com/filichkin.alexey
+**LinkedIn:** https://www.linkedin.com/in/alexey-filichkin-085569aa
 
 ---
 
